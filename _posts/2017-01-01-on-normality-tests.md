@@ -14,10 +14,10 @@ Just to be doubly careful, I searched and stumbled upon [this blog post](https:/
 2. Are null hypothesis tests against the assumption of normality
 As a result, for small sample sizes even a big departure from normality isn't detected and for large sample sizes even the smallest departure is!
 
-Conclusion: A Q-Q plot is required in addition to these tests for verification.
+**Conclusion:** A Q-Q plot is required in addition to these tests for verification.
 
 Keep in mind though that 
 > 1. You can never, no matter how much data you collect, conclusively determine that it was generated from an exactly normal > distribution. 
 > 2. Your data is not generated from an exactly normal distribution (no real data is).
 
-- Ian Fellows
+\- Ian Fellows
