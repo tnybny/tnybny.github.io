@@ -11,8 +11,8 @@ Here's a [video of the progress of G-means clustering algorithm](https://www.you
 
 Limitations of G-means clustering:
 * It makes an assumption that the clusters are normally distributed. Even though this is a common assumption, you cannot use G-means for non-normal clusters.
-* In some cases, the data could cause G-means to keep splitting again and again to form tiny clusters. The last two steps in the video show the start of this. This happens because of the way normality tests work - This is related to my blog post about normality tests and their usage. 
+* In some cases, the data could cause G-means to keep splitting again and again to form tiny clusters. The last two steps in the video show the start of this. This happens because of the way normality tests work.
 
 If you're interested in reading more:
-1. Hamerly, Greg, and Charles Elkan. "Learning the k in A> means." Advances in neural information processing systems 16 (2004): 281.
+1. Hamerly, Greg, and Charles Elkan. "Learning the k in K means." Advances in neural information processing systems 16 (2004): 281.
 2. Vatsavai, Ranga R., et al. "GX-Means: A model-based divide and merge algorithm for geospatial image clustering." Procedia Computer Science 4 (2011): 186-195.
