@@ -3,7 +3,7 @@ title: "Anomalous cluster detection in spatiotemporal meteorological fields"
 collection: publications
 permalink: /publication/Anomalous-cluster-detection
 excerpt: 'This paper presents a piecewise parameteric approach to detect anomalous clusters in gridded spatio-temporal data'
-date: 2018-12
+date: 2018-12-01
 venue: 'Statistical Analysis and Data Mining: The ASA Data Science Journal'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11398'
 ---

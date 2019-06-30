@@ -3,7 +3,7 @@ title: "Estimating a Manifold from a Tangent Bundle Learner"
 collection: publications
 permalink: /publication/manifold-estimation-from-TBL
 excerpt: 'This paper is about estimating a manifold from a tangent bundle learner.'
-date: 2019
+date: 2019-06-01
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/1906.07661'
 ---

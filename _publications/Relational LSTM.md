@@ -3,7 +3,7 @@ title: "Relational Long Short-Term Memory for Video Action Recognition"
 collection: publications
 permalink: /publication/Relational-LSTM
 excerpt: 'This paper presents a Relational LSTM network for Video Action Recognition'
-date: 2018-11
+date: 2018-11-01
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/1811.07059'
 ---

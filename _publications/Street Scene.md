@@ -3,7 +3,7 @@ title: "Street Scene: A new dataset and evaluation protocol for video anomaly de
 collection: publications
 permalink: /publication/Street-Scene
 excerpt: 'This paper presents a new large dataset and evaluation protocol for video anomaly detection'
-date: 2019-02
+date: 2019-02-01
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/1902.05872'
 ---

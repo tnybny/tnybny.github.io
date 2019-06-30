@@ -3,7 +3,7 @@ title: "Real-Time Energy Audit of Built Environments: Simultaneous Localization 
 collection: publications
 permalink: /publication/SLATM
 excerpt: 'This paper is about performing SLAM with a thermal sensor.'
-date: 2018-09
+date: 2018-09-01
 venue: 'Journal of Infrastructure Systems'
 paperurl: 'https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29IS.1943-555X.0000431'
 ---
