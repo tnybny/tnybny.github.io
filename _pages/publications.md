@@ -1,5 +1,5 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=QAimwukAAAAJ&hl=en)"
+title: "Select Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=QAimwukAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
@@ -26,11 +26,11 @@ Zexi Chen, <b>Bharathkumar Ramachandra</b>, Tianfu Wu, Ranga Raju Vatsavai.
 
 ## Other
 
-<b>[Real-Time Energy Audit of Built Environments: Simultaneous Localization and Thermal Mapping](https://tnybny.github.io/publication/SLATM)</b>
+<b>[Real-Time Energy Audit of Built Environments: Simultaneous Localization and Thermal Mapping](https://tnybny.github.io/publication/SLATM)</b> <br> 
 <b>Bharathkumar Ramachandra</b>, Pranav Nawathe, Jacob Monroe, Kevin Han, Youngjib Ham, Ranga Raju Vatsavai.
 <b>Journal of Infrastructure Systems, 2018.</b>
 
-<b>[Scalable nearest neighbor based hierarchical change detection framework for crop monitoring](https://tnybny.github.io/publication/HKNN)</b>
+<b>[Scalable nearest neighbor based hierarchical change detection framework for crop monitoring](https://tnybny.github.io/publication/HKNN)</b> <br> 
 Zexi Chen, Ranga Raju Vatsavai, <b>Bharathkumar Ramachandra</b>, Qiang Zhang, Nagendra Singh, Sreenivas Sukumar.
 <b>IEEE International Conference on Big Data, 2016.</b>
 
