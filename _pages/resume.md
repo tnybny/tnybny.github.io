@@ -11,4 +11,4 @@ redirect_from:
 
 [Click to View My Up-to-date Resume [PDF]](http://tnybny.github.io/files/br_resume.pdf)
 
-<!-- <embed src="http://tnybny.com/files/br_resume.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://tnybny.github.io/files/br_resume.pdf" width="650" height="1800" type='application/pdf'> -->
