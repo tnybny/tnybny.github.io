@@ -21,7 +21,7 @@ Zexi Chen, <b>Bharathkumar Ramachandra</b>, Tianfu Wu, Ranga Raju Vatsavai.
 <i>ArXiv 2018.</i>
 
 <b>[Anomalous cluster detection in spatiotemporal meteorological fields](https://tnybny.github.io/publication/Anomalous-cluster-detection)</b> <br> 
-<b>Bharathkumar Ramachandra\*</b>, Benjamin Dutton\*, Ranga Raju Vatsavai.
+<b>Bharathkumar Ramachandra</b>, Benjamin Dutton, Ranga Raju Vatsavai.
 <b>Statistical Analysis and Data Mining: The ASA Data Science Journal, 2018.</b>
 
 ## Other
