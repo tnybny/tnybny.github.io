@@ -1,5 +1,5 @@
 ---
-title: "Video anomaly detection with auto-encoders."
+title: "Video anomaly detection with auto-encoders"
 excerpt: "Reproduction of a paper that performs video frame-level video anomaly detection using convolutional auto-encoders<br/><img src='/images/PFE_vid1.png'>"
 collection: portfolio
 ---
