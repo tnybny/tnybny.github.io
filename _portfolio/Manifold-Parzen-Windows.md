@@ -1,6 +1,6 @@
 ---
 title: "Manifold Parzen Windows"
-excerpt: "A manifold-aware parzen windows density estimator. <br/><img src='../images/MPW.png'>"
+excerpt: "A manifold-aware parzen windows density estimator. <br/><img src='../images/MPW.png' width="400" height="400">"
 collection: portfolio
 ---
 
