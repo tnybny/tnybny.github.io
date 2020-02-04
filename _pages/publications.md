@@ -12,9 +12,14 @@ author_profile: true
 
 ## Computer Vision
 
+
+<b>[Learning a distance function with a Siamese network to localize anomalies in videos](https://tnybny.github.io/publication/VADSiamese)</b> <br> 
+<b>Bharathkumar Ramachandra</b>, Michael Jones, Ranga Raju Vatsavai.
+<i>WACV 2020.</i>
+
 <b>[Street Scene: A new dataset and evaluation protocol for video anomaly detection](https://tnybny.github.io/publication/Street-Scene)</b> <br> 
 <b>Bharathkumar Ramachandra</b>, Michael Jones.
-<i>ArXiv 2019.</i>
+<i>WACV 2020.</i>
 
 <b>[Relational Long Short-Term Memory for Video Action Recognition](https://tnybny.github.io/publication/Relational-LSTM)</b> <br> 
 Zexi Chen, <b>Bharathkumar Ramachandra</b>, Tianfu Wu, Ranga Raju Vatsavai.
