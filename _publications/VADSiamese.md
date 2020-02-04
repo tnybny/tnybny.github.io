@@ -1,4 +1,3 @@
-
 ---
 title: "Learning a distance function with a siamese network to localize anomalies in videos"
 collection: publications
