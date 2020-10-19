@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bharathkumar (Tiny) Ramachandra"
 title_separator          : "-"
 name                     : &name "Bharathkumar Ramachandra"
-description              : &description "Doctoral Candidate at North Carolina State University"
+description              : &description "Computer Vision Scientist at Wrnch Inc."
 url                      : https://tnybny.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tnybny.github.io"
@@ -83,8 +83,8 @@ author:
   name             : "Tiny"
   avatar           : "Paris-Feb-2020.jpg"
   bio              : "Computer Vision Scientist | Professional soundboard for ideas | Amateur rock climber, soccer player"
-  location         : "Raleigh, North Carolina"
-  employer         : "NCSU, MERL"
+  location         : "Montreal, Quebec"
+  employer         : "Wrnch Inc."
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QAimwukAAAAJ&hl=en"
   email            : "tnybny@gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/tnybny/
   orcid            : https://orcid.org/0000-0001-9671-6430
   pinterest        :
   soundcloud       :
