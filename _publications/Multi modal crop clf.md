@@ -1,10 +1,10 @@
 ---
 title: "Multimodal Deep Learning Based Crop Classification Using Multispectral and Multitemporal Satellite Imagery"
 collection: publications
-permalink: /publication/Multi modal crop clf
+permalink: /publication/Multi-modal-crop-clf
 excerpt: 'This paper presents a multimodal strategy for crop classification using multispectral imagery and NDVI phenology time series'
 date: 2020-08-01
-venue: 'KDD 2020'
+venue: 'KDD'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3394486.3403375'
 ---
 

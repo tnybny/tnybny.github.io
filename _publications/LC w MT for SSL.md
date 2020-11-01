@@ -1,10 +1,10 @@
 ---
 title: "Local Clustering with Mean Teacher for Semi-supervised learning"
 collection: publications
-permalink: /publication/LC w MT for SSL
+permalink: /publication/LC-w-MT-for-SSL
 excerpt: 'This paper presents a simple method called Local Clustering to mitigate the issue of confirmation bias in Mean Teacher'
 date: 2021-01-01
-venue: 'ICPR 2020'
+venue: 'ICPR'
 paperurl: 'https://arxiv.org/pdf/2004.09665.pdf'
 ---
 
