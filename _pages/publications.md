@@ -6,7 +6,7 @@ author_profile: true
 
 ## Computer Vision
 
-<b>[A Survey of Single-Scene Video Anomaly Detection]</b> <br> 
+<b>[A Survey of Single-Scene Video Anomaly Detection](https://tnybny.github.io/publication/VADSurvey)</b> <br> 
 <b>Bharathkumar Ramachandra</b>, Michael Jones, Ranga Raju Vatsavai.
 <i>TPAMI 2020.</i>
 
@@ -18,9 +18,9 @@ author_profile: true
 <b>Bharathkumar Ramachandra</b>, Michael Jones.
 <i>WACV 2020.</i>
 
-<b>[Local Clustering with Mean Teacher for Semi-supervised Learning]</b> <br> 
+<b>[Local Clustering with Mean Teacher for Semi-supervised Learning](https://tnybny.github.io/publication/LC-w-MT-for-SSL)</b> <br> 
 Zexi Chen, Benjamin Dutton, <b>Bharathkumar Ramachandra</b>, Tianfu Wu, Ranga Raju Vatsavai.
-<i>International Conference on Pattern Recognition, 2020.</i>
+<i>ICPR 2020.</i>
 
 <b>[Consistency Regularization with Generative Adversarial Networks for Semi-Supervised Image Classification]</b> <br> 
 Zexi Chen, <b>Bharathkumar Ramachandra</b>, Ranga Raju Vatsavai.
