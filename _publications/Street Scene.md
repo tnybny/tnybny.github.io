@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Street-Scene
 excerpt: 'This paper presents a new large dataset and evaluation protocol for video anomaly detection.'
 date: 2019-02-01
-venue: 'arXiv'
+venue: 'WACV 2020'
 paperurl: 'https://arxiv.org/abs/1902.05872'
 ---
 

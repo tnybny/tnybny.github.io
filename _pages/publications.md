@@ -4,14 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Machine Learning
-
-<b>[Estimating a Manifold from a Tangent Bundle Learner](https://tnybny.github.io/publication/manifold-estimation-from-TBL)</b> <br> 
-<b>Bharathkumar Ramachandra\*</b>, Benjamin Dutton\*, Ranga Raju Vatsavai.
-<i>ArXiv 2019.</i>
-
 ## Computer Vision
 
+<b>[A Survey of Single-Scene Video Anomaly Detection]</b> <br> 
+<b>Bharathkumar Ramachandra</b>, Michael Jones, Ranga Raju Vatsavai.
+<i>TPAMI 2020.</i>
 
 <b>[Learning a distance function with a Siamese network to localize anomalies in videos](https://tnybny.github.io/publication/VADSiamese)</b> <br> 
 <b>Bharathkumar Ramachandra</b>, Michael Jones, Ranga Raju Vatsavai.
@@ -21,22 +18,40 @@ author_profile: true
 <b>Bharathkumar Ramachandra</b>, Michael Jones.
 <i>WACV 2020.</i>
 
+<b>[Local Clustering with Mean Teacher for Semi-supervised Learning]</b> <br> 
+Zexi Chen, Benjamin Dutton, <b>Bharathkumar Ramachandra</b>, Tianfu Wu, Ranga Raju Vatsavai.
+<i>International Conference on Pattern Recognition, 2020.</i>
+
+<b>[Consistency Regularization with Generative Adversarial Networks for Semi-Supervised Image Classification]</b> <br> 
+Zexi Chen, <b>Bharathkumar Ramachandra</b>, Ranga Raju Vatsavai.
+<i>ArXiv 2020.</i>
+
 <b>[Relational Long Short-Term Memory for Video Action Recognition](https://tnybny.github.io/publication/Relational-LSTM)</b> <br> 
 Zexi Chen, <b>Bharathkumar Ramachandra</b>, Tianfu Wu, Ranga Raju Vatsavai.
 <i>ArXiv 2018.</i>
 
-<b>[Anomalous cluster detection in spatiotemporal meteorological fields](https://tnybny.github.io/publication/Anomalous-cluster-detection)</b> <br> 
-<b>Bharathkumar Ramachandra</b>, Benjamin Dutton, Ranga Raju Vatsavai.
-<b>Statistical Analysis and Data Mining: The ASA Data Science Journal, 2018.</b>
+## Machine Learning
+
+<b>[Estimating a Manifold from a Tangent Bundle Learner](https://tnybny.github.io/publication/manifold-estimation-from-TBL)</b> <br> 
+<b>Bharathkumar Ramachandra\*</b>, Benjamin Dutton\*, Ranga Raju Vatsavai.
+<i>ArXiv 2019.</i>
 
 ## Other
 
+<b>[Anomalous cluster detection in spatiotemporal meteorological fields]</b> <br> 
+<b>Bharathkumar Ramachandra</b>, Benjamin Dutton, Ranga Raju Vatsavai.
+<i>Statistical Analysis and Data Mining: The ASA Data Science Journal, 2018.</i>
+
+<b>[Multimodal Deep Learning Based Crop Classification Using Multispectral and Multitemporal Satellite Imagery](https://tnybny.github.io/publication/Multi-modal-crop-clf)</b> <br> 
+Krishna Karthik Gadiraju, <b>Bharathkumar Ramachandra</b>, Zexi Chen, Ranga Raju Vatsavai.
+<i>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2020.</b>
+
 <b>[Real-Time Energy Audit of Built Environments: Simultaneous Localization and Thermal Mapping](https://tnybny.github.io/publication/SLATM)</b> <br> 
 <b>Bharathkumar Ramachandra</b>, Pranav Nawathe, Jacob Monroe, Kevin Han, Youngjib Ham, Ranga Raju Vatsavai.
-<b>Journal of Infrastructure Systems, 2018.</b>
+<i>Journal of Infrastructure Systems, 2018.</i>
 
 <b>[Scalable nearest neighbor based hierarchical change detection framework for crop monitoring](https://tnybny.github.io/publication/HKNN)</b> <br> 
 Zexi Chen, Ranga Raju Vatsavai, <b>Bharathkumar Ramachandra</b>, Qiang Zhang, Nagendra Singh, Sreenivas Sukumar.
-<b>IEEE International Conference on Big Data, 2016.</b>
+<i>IEEE International Conference on Big Data, 2016.</b>
 
 [\* denotes equal contribution]
