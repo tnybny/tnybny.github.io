@@ -15,7 +15,9 @@ This is a list of select research works that I've read and really like from most
 1. [A Metric Learning Reality Check](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700681.pdf) in ECCV 2020: Through benchmark and comparison on deep metric learning research over the past few years, exposing flaws in experimental methodology of several of them.
 1. [What Matters in Unsupervised Optical Flow](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470545.pdf) in ECCV 2020: A thorough study on the different losses, occlusion handling and smoothness regularization strategies in optical flow learning, leading to a new and simple unsupervised optical flow technique that sets new sota in multiple areas.
 1. [DETR](https://arxiv.org/pdf/2005.12872.pdf) in ECCV 2020: Object detection with Transformer networks by performing directly fixed set prediction, without the need for RPNs and NMS. 
-1. [3D pose estimation with 2D marginal heatmaps](https://arxiv.org/pdf/1806.01484.pdf) in WACV 2019: A beautiful alternative to representing 3D pose ground truth with the memory and computation heavy volumetric heatmaps. 
+1. [3D pose estimation with 2D marginal heatmaps](https://arxiv.org/pdf/1806.01484.pdf) in WACV 2019: A beautiful alternative to representing 3D pose ground truth with the memory and computation heavy volumetric heatmaps.
+1. [Associative Embeddings](https://papers.nips.cc/paper/2017/file/8edd72158ccd2a879f79cb2538568fdc-Paper.pdf) in NIPS 2017: A way to supervise networks for simultaneous detection and grouping.
+1. [Transformers for Image Recognition](https://papers.nips.cc/paper/2017/file/8edd72158ccd2a879f79cb2538568fdc-Paper.pdf) on arXiV 2020: The first successful application of a Transformer directly on images, by breaking them down into sequences of image patches, for recognition tasks. 
 
 ### 2019
 1. [Domain Adversarial Training of Neural Networks](https://www.jmlr.org/papers/volume17/15-189/15-189.pdf) at JMLR 2017: Elegant idea to use gradient ascent on a "domain discriminator head" enabled by a gradient reversal layer to learn domain invaraint features.
