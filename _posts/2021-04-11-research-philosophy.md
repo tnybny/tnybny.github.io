@@ -6,7 +6,7 @@ tags:
   - reading list
 ---
 
-I've felt previously that it is important to develop a philosophy on how to do consistent, efficient, high quality, honest research. It serves as a reminer to base decisions in a grounding framework and provides comfort in times of uncertainty. It also helps me understand why certain collaborations are more successful and how to build/grow research teams that are energized. This page will serve as my continuously evolving research philosophy.
+I've felt previously that it is important to develop a philosophy on how to do consistent, efficient, high quality, honest research. It serves as a reminder to base decisions in a grounding framework and provides comfort in times of uncertainty. It also helps me understand why certain collaborations are more successful and how to build/grow research teams that are energized. This page serves to document my continuously evolving research philosophy:
 
 1. Nobody ever did anything of consequence by themselves, regard collaboration most highly.
 1. Precedent should be valued highly, it let’s you save time by skipping all the necessary steps to validate something will work if someone has already shown it.
