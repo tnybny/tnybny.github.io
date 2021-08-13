@@ -18,6 +18,10 @@ author_profile: true
 <b>Bharathkumar Ramachandra</b>, Michael Jones.
 <i>WACV 2020.</i>
 
+<b>[Perceptual metric learning for video anomaly detection](https://tnybny.github.io/publication/g-VADSiamese)</b> <br> 
+<b>Bharathkumar Ramachandra</b>, Michael Jones, Ranga Raju Vatsavai.
+<i>MVA 2021.</i>
+
 <b>[Local Clustering with Mean Teacher for Semi-supervised Learning](https://tnybny.github.io/publication/LC-w-MT-for-SSL)</b> <br> 
 Zexi Chen, Benjamin Dutton, <b>Bharathkumar Ramachandra</b>, Tianfu Wu, Ranga Raju Vatsavai.
 <i>ICPR 2020.</i>
