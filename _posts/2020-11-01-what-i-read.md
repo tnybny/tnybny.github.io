@@ -8,6 +8,16 @@ tags:
 
 This is a list of select research works that I've read and really like from most to least recent, much like a communication of my stream of consciousness when it comes to research. I would like to think that I could have collborated to write some of these and it is my dream that one day I might produce works like these.
 
+### 2022
+1. [Uncertainty Weighted Losses](https://arxiv.org/abs/1705.07115) at CVPR 2018: Simple scheme to learn loss weights in a multi-task framework in a principled manner.
+
+
+### 2021
+1. "Tutorial: Pay Attention to What You Need: Do Structural Priors Still Matter in the Age of Billion Parameter Models?" at NIPS 2021: General principles to bring structure to deep learning systems, partly inspired by Daniel Kahneman's Thinking Fast and Slow.
+1. [Masked Autoencoders are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) Masked Autoencoders are Scalable Vision Learners on ArXiV 2021: Presents a new self-learning based pretraining method that works surprisingly well for Transformer models in vision tasks.
+1. [Robustness of Vision Transformers to occlusions](https://proceedings.neurips.cc/paper/2021/file/c404a5adbf90e09631678b13b05d9d7a-Paper.pdf) at NIPS 2021: A revealing set of experiments that show that vision transformers are curiously more robust to occlusions when compared to ConvNets.
+1. [Spectral Norm for GAN training](https://proceedings.neurips.cc/paper/2021/file/4ffb0d2ba92f664c2281970110a2e071-Paper.pdf) A study on why spectral normalization has been successful in stabilizing GAN training.
+1. [Knowledge Distillation for Object Detection](https://arxiv.org/pdf/2103.02340) at CVPR 2021: A knowledge distillation scheme for object detection that is based on distillting information in regions of most disagreement between teacher and student.
 
 ### 2020
 1. [CoordConv](https://arxiv.org/pdf/1807.03247.pdf) in NIPS 2018: brilliant exposition of a curios way in which ConvNets fail and a balatantly simple solution to allow a conv kernel to be aware of it's position in terms of pixel coordinates. Note that this paper weirdly has translation _invariance_ mixed up with translation _equivarance_ a lot. 
