@@ -6,7 +6,7 @@ tags:
   - reading list
 ---
 
-This is a list of select research works that I've read and really like from most to least recent, much like a communication of my stream of consciousness when it comes to research. I would like to think that I could have collborated to write some of these and it is my dream that one day I might produce works like these.
+This is a list of select research works that I've read and really like from most to least recent, much like a communication of my stream of consciousness when it comes to research. I would like to think that I could have collaborated to write some of these and it is my dream that one day I might produce works like these.
 
 ### 2022
 1. [Uncertainty Weighted Losses](https://arxiv.org/abs/1705.07115) at CVPR 2018: Simple scheme to learn loss weights in a multi-task framework in a principled manner.
