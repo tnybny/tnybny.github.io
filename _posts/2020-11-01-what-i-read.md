@@ -6,15 +6,17 @@ tags:
   - reading list
 ---
 
-This is a list of select research works that I've read and really like from most to least recent, much like a communication of my stream of consciousness when it comes to research. I would like to think that I could have collaborated to write some of these and it is my dream that one day I might produce works like these.
+This is a list of select research works that I've read and like from most to least recently read, much like a communication of my stream of consciousness. I would like to think that I could have collaborated to write some of these and it is my dream that one day I might produce works like these.
 
 ### 2022
 1. [Uncertainty Weighted Losses](https://arxiv.org/abs/1705.07115) at CVPR 2018: Simple scheme to learn loss weights in a multi-task framework in a principled manner.
+2. [GAN-supervised Dense Visual Alignment](https://openaccess.thecvf.com/content/CVPR2022/papers/Peebles_GAN-Supervised_Dense_Visual_Alignment_CVPR_2022_paper.pdf) at CVPT 2022: Really cool way to use GANs for image congealing, with applications in augmented reality and image editing. They jointly optimize their loss with respect to both a transformation given by a spatial transformer network and a latent code that represents pose.
+3. [End-to-End Multi-Person Pose Estimation with Transformers](https://openaccess.thecvf.com/content/CVPR2022/html/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.html) at CVPR 2022: This hits home for me because it's very closely related to something I worked on at Wrnch. It uses the hungarian set-based loss and output positional encodings that DETR suggests to perform for the first time fast fully-differentiable multi-person pose estimation.
 
 
 ### 2021
 1. "Tutorial: Pay Attention to What You Need: Do Structural Priors Still Matter in the Age of Billion Parameter Models?" at NIPS 2021: General principles to bring structure to deep learning systems, partly inspired by Daniel Kahneman's Thinking Fast and Slow.
-1. [Masked Autoencoders are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) Masked Autoencoders are Scalable Vision Learners on ArXiV 2021: Presents a new self-learning based pretraining method that works surprisingly well for Transformer models in vision tasks.
+1. [Masked Autoencoders are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) Masked Autoencoders are Scalable Vision Learners on CVPR 2022: Presents a new self-learning based pretraining method that works surprisingly well for Transformer models in vision tasks.
 1. [Robustness of Vision Transformers to occlusions](https://proceedings.neurips.cc/paper/2021/file/c404a5adbf90e09631678b13b05d9d7a-Paper.pdf) at NIPS 2021: A revealing set of experiments that show that vision transformers are curiously more robust to occlusions when compared to ConvNets.
 1. [Spectral Norm for GAN training](https://proceedings.neurips.cc/paper/2021/file/4ffb0d2ba92f664c2281970110a2e071-Paper.pdf) at NIPS 2021: A study on why spectral normalization has been successful in stabilizing GAN training.
 1. [Knowledge Distillation for Object Detection](https://arxiv.org/pdf/2103.02340) at CVPR 2021: A knowledge distillation scheme for object detection that is based on distillting information in regions of most disagreement between teacher and student.
