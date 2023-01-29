@@ -26,7 +26,7 @@ author_profile: true
 Zexi Chen, Benjamin Dutton, <b>Bharathkumar Ramachandra</b>, Tianfu Wu, Ranga Raju Vatsavai.
 <i>ICPR 2020.</i>
 
-<b>[Consistency Regularization with Generative Adversarial Networks for Semi-Supervised Image Classification]</b> <br> 
+<b>[Consistency Regularization with Generative Adversarial Networks for Semi-Supervised Image Classification](https://arxiv.org/abs/2007.03844)</b> <br> 
 Zexi Chen, <b>Bharathkumar Ramachandra</b>, Ranga Raju Vatsavai.
 <i>ArXiv 2020.</i>
 
@@ -42,7 +42,7 @@ Zexi Chen, <b>Bharathkumar Ramachandra</b>, Tianfu Wu, Ranga Raju Vatsavai.
 
 ## Other
 
-<b>[Anomalous cluster detection in spatiotemporal meteorological fields]</b> <br> 
+<b>[Anomalous cluster detection in spatiotemporal meteorological fields](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11398)</b> <br> 
 <b>Bharathkumar Ramachandra</b>, Benjamin Dutton, Ranga Raju Vatsavai.
 <i>Statistical Analysis and Data Mining: The ASA Data Science Journal, 2018.</i>
 
