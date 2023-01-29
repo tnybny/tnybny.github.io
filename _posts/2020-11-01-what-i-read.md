@@ -1,5 +1,5 @@
 ---
-title: 'What I read'
+title: 'Technical reading'
 date: 2020-11-01
 permalink: /posts/2020/11/What-I-read/
 tags:
