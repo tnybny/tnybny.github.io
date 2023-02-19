@@ -24,10 +24,10 @@ This is a list of select research works that I've read and like from most to lea
 
 ### 2021
 1. "Tutorial: Pay Attention to What You Need: Do Structural Priors Still Matter in the Age of Billion Parameter Models?" at NIPS 2021: General principles to bring structure to deep learning systems, partly inspired by Daniel Kahneman's Thinking Fast and Slow.
-2. [Masked Autoencoders are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) at CVPR 2022: Presents a new self-learning based pretraining method that works surprisingly well for Transformer models in vision tasks.
+2. [Masked Autoencoders are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) at CVPR 2022: Presents a new self-learning based pre-training method that works surprisingly well for Transformer models in vision tasks.
 3. [Robustness of Vision Transformers to occlusions](https://proceedings.neurips.cc/paper/2021/file/c404a5adbf90e09631678b13b05d9d7a-Paper.pdf) at NIPS 2021: A revealing set of experiments that show that vision transformers are curiously more robust to occlusions when compared to ConvNets.
 4. [Spectral Norm for GAN training](https://proceedings.neurips.cc/paper/2021/file/4ffb0d2ba92f664c2281970110a2e071-Paper.pdf) at NIPS 2021: A study on why spectral normalization has been successful in stabilizing GAN training.
-5. [Knowledge Distillation for Object Detection](https://arxiv.org/pdf/2103.02340) at CVPR 2021: A knowledge distillation scheme for object detection that is based on distillting information in regions of most disagreement between teacher and student.
+5. [Knowledge Distillation for Object Detection](https://arxiv.org/pdf/2103.02340) at CVPR 2021: A knowledge distillation scheme for object detection that is based on distilling information in regions of most disagreement between teacher and student.
 
 ### 2020
 1. [CoordConv](https://arxiv.org/pdf/1807.03247.pdf) in NIPS 2018: brilliant exposition of a curios way in which ConvNets fail and a balatantly simple solution to allow a conv kernel to be aware of it's position in terms of pixel coordinates. Note that this paper weirdly has translation _invariance_ mixed up with translation _equivarance_ a lot. 
@@ -40,7 +40,7 @@ This is a list of select research works that I've read and like from most to lea
 1. [Transformers for Image Recognition](https://papers.nips.cc/paper/2017/file/8edd72158ccd2a879f79cb2538568fdc-Paper.pdf) on arXiV 2020: The first successful application of a Transformer directly on images, by breaking them down into sequences of image patches, for recognition tasks. 
 
 ### 2019
-1. [Domain Adversarial Training of Neural Networks](https://www.jmlr.org/papers/volume17/15-189/15-189.pdf) at JMLR 2017: Elegant idea to use gradient ascent on a "domain discriminator head" enabled by a gradient reversal layer to learn domain invaraint features.
+1. [Domain Adversarial Training of Neural Networks](https://www.jmlr.org/papers/volume17/15-189/15-189.pdf) at JMLR 2017: Elegant idea to use gradient ascent on a "domain discriminator head" enabled by a gradient reversal layer to learn domain invariant features.
 1. [Sampling Matters in Deep Embedding Learning](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Sampling_Matters_in_ICCV_2017_paper.pdf) at ICCV 2017: A study on embeddings for metric learning, emphasizing the importance of training data sampling for learning good embeddings. Also proposes a simple margin-based metric learning loss.
 1. [Rethinking the Inception Architecture for Computer Vision](https://openaccess.thecvf.com/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf) at CVPR 2016: I actually like this paper most for something they only very briefly touch upon, the concept of label smoothing regularization. LSR is a way to regularize classifiers by adding noise to the class probability targets in the cross-entropy loss. By preventing the correct class logit from becoming much larger than all other logits, it makes the model more adaptable.  
 
