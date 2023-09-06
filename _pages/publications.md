@@ -24,7 +24,7 @@ author_profile: true
 
 <b>[SSMTL++: Revisiting Self-Supervised Multi-Task Learning for Video Anomaly Detection](https://arxiv.org/abs/2207.08003)</b> <br> 
 Antonio Barbalau, Radu Tudor Ionescu, Mariana-Iuliana Georgescu, Jacob Dueholm, <b>Bharathkumar Ramachandra</b>, Kamal Nasrollahi, Fahad Shahbaz Khan, Thomas B. Moeslund, Mubarak Shah.
-<i>ArXiV 2022.</i>
+<i>CVIU 2023.</i>
 
 
 <b>[Local Clustering with Mean Teacher for Semi-supervised Learning](https://tnybny.github.io/publication/LC-w-MT-for-SSL)</b> <br> 
