@@ -14,4 +14,3 @@ Previously, I was Team Lead and Scientist of the Machine Learning team at [Invis
 
 I have a Ph.D. from the Computer Science department at [North Carolina State University](https://www.ncsu.edu/) and my dissertation was titled "Anomaly Detection in Videos". I was advised by [Ranga Raju Vatsavai](https://rvatsavai.github.io/) and also worked actively with [Mike Jones](https://www.merl.com/people/mjones) at [Mitsubishi Electric Research Laboratories](https://merl.com/).
 
-Feel free to reach out if you'd like to chat about anything from Geopipe, research collaboration, or consulting inquiries.
