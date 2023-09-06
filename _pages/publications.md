@@ -29,7 +29,7 @@ Antonio Barbalau, Radu Tudor Ionescu, Mariana-Iuliana Georgescu, Jacob Dueholm, 
 
 <b>[Local Clustering with Mean Teacher for Semi-supervised Learning](https://tnybny.github.io/publication/LC-w-MT-for-SSL)</b> <br> 
 Zexi Chen, Benjamin Dutton, <b>Bharathkumar Ramachandra</b>, Tianfu Wu, Ranga Raju Vatsavai.
-<i>ICPR 2020.</i>
+<i>ICPR 2021.</i>
 
 <b>[Consistency Regularization with Generative Adversarial Networks for Semi-Supervised Image Classification](https://arxiv.org/abs/2007.03844)</b> <br> 
 Zexi Chen, <b>Bharathkumar Ramachandra</b>, Ranga Raju Vatsavai.
