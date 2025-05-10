@@ -8,9 +8,17 @@ tags:
 
 This is a list of select research works that I've read and like from most to least recently read, much like a communication of my stream of consciousness. I would like to think that I could have collaborated to write some of these and it is my dream that one day I might produce works like these.
 
+### 2024
+1. [Map Learning with Lane Segment Perception for Autonomous Driving](https://arxiv.org/abs/2312.16108) at ICLR 2024: A DETR-based approach for detecting lane segments and their relationships for real-time map learning. 
+2. [Center-based 3D Object Detection and Tracking](https://arxiv.org/abs/2006.11275) at CVPR 2021: Representing 3D objects as points using a keypoint heatmap detection scheme.
+3. [BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation](https://arxiv.org/abs/2205.13542) at ICRA2023: LiDAR + Camera fusion in the Bird's Eye View Representation space for autonomous driving tasks.
+4. [BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers](https://arxiv.org/abs/2203.17270) at TPAMI 2024: Using BEV-space queries and a transformer to project image features into the BEV space
+5. [PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images](https://arxiv.org/abs/2206.01256) at ICCV 2023: Extended the 3D positional embedding in PETR to temporal modeling and task-specific queries for autonomous driving tasks.
+
 ### 2023
-1. [Boundary loss for highly unbalanced segmentation](https://proceedings.mlr.press/v102/kervadec19a.html) at PMLR 2019: A loss function that takes the form of a distance metric over on the space of contours instead of regions, allowing application on highly unbalanced segmentation tasks with relatively stable training.
-2. [Generalised dice overlap as a deep learning loss function for highly unbalanced segmentations](https://arxiv.org/abs/1707.03237) at MICCAI 2017: Generalizes the Dice loss with class re-balancing properties through weighting for highly unbalanced segmentation.
+1. [Boundary Loss for Highly Unbalanced Segmentation](https://proceedings.mlr.press/v102/kervadec19a.html) at PMLR 2019: A loss function that takes the form of a distance metric over on the space of contours instead of regions, allowing application on highly unbalanced segmentation tasks with relatively stable training.
+2. [Generalised Dice Overlap as a Deep Learning Loss Function for Highly Unbalanced Segmentations](https://arxiv.org/abs/1707.03237) at MICCAI 2017: Generalizes the Dice loss with class re-balancing properties through weighting for highly unbalanced segmentation.
+3. [Masked-attention Mask Transformer for Universal Image Segmentation](https://arxiv.org/abs/2112.01527) at CVPR 2022: Using a mask to constrain cross-attention within predicted mask regions for dense output prediction tasks, where learnable queries serve as mask proposals (akin to region proposals).
 
 ### 2022
 1. [Uncertainty Weighted Losses](https://arxiv.org/abs/1705.07115) at CVPR 2018: Simple scheme to learn loss weights in a multi-task framework in a principled manner.
